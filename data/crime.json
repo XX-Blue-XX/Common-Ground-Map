@@ -1,7 +1,7 @@
 {
 	"geojson":"https://github.com/XX-Blue-XX/Common-Ground-Map/blob/master/data/Leeds_Crime_Oct-Dec15.geojson",
-	"name":"WestYorkshire Crime Statistic",
-	"desc": "Crime Statistic in westyorkshire",
+	"name":"Leeds Crime Statistic",
+	"desc": "Crime Statistic in Leeds",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
 	"url": "https://datamillnorth.org/dataset/cycle-routes-in-leeds",
 	"owner": "Leeds City Council",
