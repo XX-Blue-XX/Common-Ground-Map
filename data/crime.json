@@ -1,5 +1,5 @@
 {
-	"geojson":"https://github.com/XX-Blue-XX/Common-Ground-Map/blob/master/data/Leeds_Crime_Oct-Dec15.geojson",
+	"geojson":"https://raw.githubusercontent.com/XX-Blue-XX/Common-Ground-Map/master/data/Leeds_Crime_Oct-Dec15.geojson",
 	"name":"Leeds Crime Statistic",
 	"desc": "Crime Statistic in Leeds",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
