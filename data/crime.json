@@ -3,7 +3,7 @@
 	"name":"Leeds Crime Statistic",
 	"desc": "Crime Statistic in Leeds",
 	"credit":{"text":"&copy; University of Leeds","src":"Leeds University"},
-	"url": "https://datamillnorth.org/dataset/cycle-routes-in-leeds",
+	"url": "https://datamillnorth.org/dataset/leeds-crime-statistics",
 	"owner": "Leeds City Council",
 	"odbl": false,
 	"licence": {"text":"Copyright","url":"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"},
